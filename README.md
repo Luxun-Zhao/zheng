@@ -68,7 +68,7 @@ zheng
 |    ├── zheng-oss-sdk -- 开发工具包
 |    ├── zheng-oss-web -- 前台接口[端口:7771]
 |    └── zheng-oss-admin -- 后台管理[端口:7772]
-├── zheng-message -- 任务通知系统
+├── zheng-message -- 实时通知系统
 |    ├── zheng-message-sdk -- 开发工具包
 |    ├── zheng-message-server -- 服务端[端口:8881,SocketIO端口:8882]
 |    └── zheng-message-client -- 客户端
@@ -442,6 +442,8 @@ maven编译安装zheng/pom.xml文件即可
 - [让zheng更完美地支持ajax提交的json数据](http://blog.csdn.net/ctmold/article/details/79081483 "让zheng更完美地支持ajax提交的json数据")
 
 ### 优秀文章和博客
+
+- [Git原理及使用](https://zhuanlan.zhihu.com/p/66506485 "Git原理及使用")
 
 - [创业互联网公司如何搭建自己的技术框架](http://shuzheng5201314.iteye.com/blog/2330151 "创业互联网公司如何搭建自己的技术框架")
 
